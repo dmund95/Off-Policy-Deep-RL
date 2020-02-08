@@ -1,6 +1,7 @@
 __pycache__
 .spyproject
 .DS_Store
+config.py
 .vscode*
 *.code-workspace
 Thumbs.db
